@@ -1,2 +1,2 @@
 # ScientificCalculatorGlassMorphism
-Scientific Calculator Glass Morphism using HtML, CSS, JavaScript
+Scientific Calculator Glass Morphism using Html, CSS, JavaScript
