@@ -1,4 +1,4 @@
-# ScientificCalculatorGlassMorphism
+# Scientific Calculator Glass Morphism
 A Simple Scientific Calculator Glass Morphism using Html, CSS, JavaScript
 
 ## About The Project
