@@ -1,5 +1,5 @@
 # ScientificCalculatorGlassMorphism
-Scientific Calculator Glass Morphism using Html, CSS, JavaScript
+A Simple Scientific Calculator Glass Morphism using Html, CSS, JavaScript
 
 ## About The Project
 
