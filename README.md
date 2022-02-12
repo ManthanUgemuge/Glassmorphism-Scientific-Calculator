@@ -16,10 +16,9 @@ A Simple Web Application using HTML, CSS & JavaScript
 - Download or clone the repository Website : 
  
 ```
-https://github.com/ManthanUgemuge/QRCodeGenerator.git
-
+https://github.com/ManthanUgemuge/ScientificCalculatorGlassMorphism.git
 ```
-Run Directly - [QR Code Generator](https://manthanugemuge.github.io/QRCodeGenerator/)
+Run Directly - [ScientificCalculatorGlassMorphism](https://manthanugemuge.github.io/QRCodeGenerator/)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
