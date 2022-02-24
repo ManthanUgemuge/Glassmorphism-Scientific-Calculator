@@ -13,7 +13,6 @@ A Simple Web Application using HTML, CSS & JavaScript
 
 ## How to use Project
 - Download or clone the repository Website : 
- 
 ```
 https://github.com/ManthanUgemuge/ScientificCalculatorGlassMorphism.git
 ```
