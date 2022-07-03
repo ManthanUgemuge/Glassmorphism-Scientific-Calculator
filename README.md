@@ -1,8 +1,7 @@
 # Scientific Calculator Glass Morphism
-A Simple Scientific Calculator Glass Morphism using Html, CSS & JavaScript
+A Simple Glass Morphism Scientific Calculator using Html, CSS & JavaScript
 
 ## About The Project
-
 A Simple Web Application using HTML, CSS & JavaScript
 
 ## Tech Stacks Used
