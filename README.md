@@ -15,7 +15,7 @@ A Simple Web Application using HTML, CSS & JavaScript.
 ```
 https://github.com/ManthanUgemuge/Scientific-Calculator-Glass-Morphism.git
 ```
-Run Directly - { [Live](https://manthanugemuge.github.io/Scientific-Calculator-Glass-Morphism/)//[Download](https://github.com/ManthanUgemuge/ScientificCalculatorGlassMorphism/archive/refs/heads/main.zip) }
+Run Directly - { [Live](https://manthanugemuge.github.io/Scientific-Calculator-Glass-Morphism/)//[Download](https://github.com/ManthanUgemuge/Scientific-Calculator-Glass-Morphism/archive/refs/heads/main.zip) }
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
